@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-Learned some css grid basics
+Learned some css grid basics for container arrangement and the html tag for line break.
 
 To see how you can add code snippets, see below:
 
@@ -73,7 +73,7 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [Grid Example](https://www.w3schools.com/CSS/css_grid.asp) - This helped me learn css grid basics.
+- [Grid Examples](https://www.w3schools.com/CSS/css_grid.asp) - This helped me learn css grid basics.
 
 ## Author
 
